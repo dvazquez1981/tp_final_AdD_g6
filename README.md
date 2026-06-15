@@ -58,7 +58,7 @@ Bibliotecas principales:
 1. Clonar el repositorio:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/dvazquez1981/tp_final_AdD_g6
 ```
 
 2. Ingresar al directorio:
