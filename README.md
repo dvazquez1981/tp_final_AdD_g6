@@ -1,5 +1,8 @@
 # TPG_Final - Análisis de Datos
 
+## Profesores
+* María Carina Roldán
+* Ariadna Garmendia
 ## Integrantes
 
 * Tomás Abraham
@@ -24,7 +27,7 @@ El trabajo incluye:
 
 Se utiliza el conjunto de datos:
 
-`NYPD_Complaint_Data_Current_(Year_To_Date)_20260504.csv`
+`NYPD_Complaint_Data_Current_(Year_To_Date)_20260504.csv` 
 
 Para el desarrollo del trabajo se consideran únicamente los registros correspondientes al año 2025.
 
