@@ -8,6 +8,9 @@
 * Tomás Abraham
 * Diego Aníbal Vázquez
 
+## Grupo
+6
+
 ## Descripción
 
 Este proyecto corresponde al Trabajo Práctico Grupal de Análisis de Datos. El objetivo es realizar un proceso completo de exploración, limpieza, análisis y preparación de datos utilizando información de denuncias policiales del Departamento de Policía de Nueva York (NYPD).
@@ -37,7 +40,7 @@ Para el desarrollo del trabajo se consideran únicamente los registros correspon
 .
 ├── TPG_Final.ipynb
 ├── datasets/
-│   └── NYPD_Complaint_Data_Current_(Year_To_Date)_20260504.csv
+│   └── NYPD_Complaint_Data_Current_(Year_To_Date)_20260504.zip
 └── README.md
 ```
 
