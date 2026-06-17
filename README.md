@@ -1,6 +1,6 @@
 # TPG_Final - Análisis de Datos
 
-## Profesores
+## Profesoras
 * María Carina Roldán
 * Ariadna Garmendia
 ## Integrantes
